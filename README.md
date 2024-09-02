@@ -1,26 +1,15 @@
-<br clear="both">
-
 <h3 align="left">Hi✌🏼!</h3>
 
 ###
-
-<br clear="both">
-
 <h5 align="left">My name is David and I'm a web developer :)</h5>
 
 ###
+<br clear="both">
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=David-Llanes.David-Llanes&left_color=dimgray&right_color=gray"  />
-</div>
-
-###
 
 <h2 align="left">🖥️ Tech stack</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -58,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="left">🔗 Contact me</h2>
 
@@ -76,29 +65,22 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="left">📈 GitHub stats</h2>
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Llanes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=David-Llanes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="left">👀 My activity</h2>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/David-Llanes/David-Llanes/output/snake.svg" alt="Snake animation" />
 
-###
