@@ -1,12 +1,18 @@
 <br clear="both">
 
-<h3 align="center">Hi✌🏼! My name is David</h3>
+<h3 align="left">Hi✌🏼!</h3>
 
 ###
 
 <br clear="both">
 
-<h5 align="center">I'm a web developer</h5>
+<h5 align="left">My name is David and I'm a web developer :)</h5>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=David-Llanes.David-Llanes&left_color=dimgray&right_color=gray"  />
+</div>
 
 ###
 
@@ -54,23 +60,19 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/ZvYnzl2GrSAAAAAM/tony-tony-chopper-chopper.gif"  />
-
-###
-
 <h2 align="left">🔗 Contact me</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/david-llanes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=david-llanes&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=david.llanes1019@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/david.lb._?igsh=NjJjOHMzejAxcjZ4&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=david.lb._&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
 </div>
 
