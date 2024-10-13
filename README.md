@@ -1,4 +1,3 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=David-Llanes.David-Llanes&"  />
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/079a24c5-82b5-446a-bb26-9dcdb4a16d4e">
 
 
