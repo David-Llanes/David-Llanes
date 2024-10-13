@@ -7,7 +7,7 @@
   ➡ [Visit my Website](https://www.google.com "David's Website") ⬅
 </h2>
 
-<br clear="both" >
+
 
 <div align="left">
   <h3>✉️ Contact Me</h3>
@@ -23,7 +23,7 @@
   </div>
 </div>
 
-<br clear="both" >
+
 
 <div align="left">
 <h3>📈 GitHub Stats</h3>
